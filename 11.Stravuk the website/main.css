@@ -1,0 +1,55 @@
+body
+{background-color: black;}
+header
+{
+	margin-left: 470px;
+	margin-top: 20px;
+}
+h1
+{
+	color: white;
+	text-align: center;
+}
+h2
+{
+	color: white;
+}
+.l
+{
+	margin-left: 50px;
+}
+.c
+{
+	text-align: center;
+	margin-top: -48px;
+}
+.r
+{
+	margin-left: 1108px;
+	margin-top: -42px;
+}
+.round
+{
+	border-radius: 70px 70px 70px 70px;
+	margin-left: 350px;
+}
+.leg
+{
+	margin-left: 410px;
+	border-radius: 70px 70px 70px 70px;
+}
+.cn
+{
+	margin-left: 70px;
+	border-radius: 70px 70px 70px 70px;
+	margin-bottom: : -500px;
+
+}
+.teas
+{
+	margin-left: 200px;
+}
+.fusion
+{
+	margin-left: 70px;
+}
